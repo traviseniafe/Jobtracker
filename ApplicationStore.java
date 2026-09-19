@@ -5,7 +5,7 @@ import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/*
  * Loads applications from a text file and saves them back.
  * Each application is one line, with fields separated by tabs.
  */
