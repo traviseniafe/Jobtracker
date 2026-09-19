@@ -17,11 +17,11 @@ javac -version
 From the project folder:
 
 ```
-javac -d out *.java
-java -cp out Main
+javac *.java
+java Main
 ```
 
-The first command compiles every `.java` file into the `out` folder. The second runs the program.
+The first command compiles every `.java` file into the folder. The second runs the program.
 
 ## Features
 
