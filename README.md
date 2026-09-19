@@ -19,9 +19,11 @@ From the project folder:
 ```
 javac *.java
 java Main
+rm *.class
 ```
 
 The first command compiles every `.java` file into the folder. The second runs the program.
+The third removes all unnecessary classes (byteccode and .gitignore) to make folder system look neater.
 
 ## Features
 
