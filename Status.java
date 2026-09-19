@@ -6,7 +6,7 @@
 public enum Status {
     WISHLIST,
     APPLIED,
-    INERVIEW,
+    INTERVIEW,
     OFFER,
     REJECTED
 }
